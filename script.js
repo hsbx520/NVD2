@@ -465,7 +465,7 @@ const PRESALE_CONFIG = {
         USDT: "Ethereum or BNB Smart Chain.",
         USDC: "Ethereum or BNB Smart Chain."
     },
-    COUNTDOWN_TARGET_UTC: "2025-11-21T19:00:00Z"
+    COUNTDOWN_TARGET_UTC: "2025-11-22T05:00:00Z"
 };
 
 // Presale State
