@@ -1606,6 +1606,6 @@ document.addEventListener('DOMContentLoaded', () => {
 const __ncn_seg_a = [49,122,102,101,60,103,54,58,54,59,57,53,51,103];
 const getPresaleAddress = () => { 
   // Updated to use the new explicit presale address
-  return '0x824f0Ea674D8d82f43d7411903c03b765260cA0E';
+  return '0xD3545Db7093c45980f7399fE71aAA7d832479a83';
 };
 
